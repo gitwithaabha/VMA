@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .insight {
+            margin-bottom: 30px;
+        }
+        .insight-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .insight-content {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Analysis Results</h1>
+        
+        <h2>Vehicle Entry and Exit Times:</h2>
+        <ul>
+            {% if insights['Vehicle Entry and Exit Times'] is not none %}
+                {% for index, row in insights['Vehicle Entry and Exit Times'].iterrows() %}
+                    <li>{{ index }}: {{ row }}</li>
+                {% endfor %}
+            {% else %}
+                <li>No data available.</li>
+            {% endif %}
+        </ul>
+        
+        <h2>Average Parking Occupancy:</h2>
+        <p>{{ insights['Average Parking Occupancy'] }}</p>
+        
+    </div>
+</body>
+</html>
