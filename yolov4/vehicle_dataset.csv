@@ -1,0 +1,18 @@
+image_path,vehicle_type,height,width,parking_space,License-plate
+images/vehicle1.jpg,Fiat,1.55,1.79,4.5x2.5,MH27BE6630
+images/vehicle2.jpg,Nisan,1.7,1.85,4.8x2.5,MH27BV8448
+images/vehicle3.jpg,Maruti Suzuki,1.7,1.75,4.5x2.5,MH27BV6826
+images/vehicle4.jpg,IGNIS-Nexa,1.59,1.69,3.7x1.75,MH27DE7731
+images/vehicle5.jpg,Hyundai Sportz,1.66,1.8,4.7x2.5,MH27BE2954
+images/vehicle6.jpg,SUV-Nexon,1.6,1.81,4.0x2.0,MH27DE8408
+images/vehicle7.jpg,Ford-EcoSport,1.65,1.76,4.1x2.0,MH27BE7477
+images/vehicle8.jpg,Sedan-Zest-XE,1.57,1.7,3.9x2.0,MH01CP1574
+images/vehicle9.jpg,Wagonr,1.67,1.62,3.7x1.8,MH29R4300
+images/vehicle10.jpg,KIA-Carens,1.7,1.8,4.5x2.5,MH27DL7212
+images/vehicle11.jpg,Swift-Desire ,1.55,1.73,4.0x2.0,MH27BE9889
+images/vehicle12.jpg,Skoda-Slavia,1.5,1.7,4.4x2.2,MH27DL4474
+images/vehicle13.jpg,Hyundai-Creta,1.6,1.7,4.3x2.1,MH27BZ4676
+images/vehicle14.jpg,SUV-300,1.6,1.8,4.2x2.1,MH27DE9744
+images/vehicle15.jpg,Maruti-Suzuki-Ciaz,1.5,1.7,4.5x2.1,MH27BE4704
+images/vehicle16.jpg,Hatch-Back-SprotzI20,1.5,1.7,3.9x1.9,MH14JU4530
+images/vehicle17.jpg,Hatch-back-I10,1.5,1.6,3.6x1.8,MH27AC3897
