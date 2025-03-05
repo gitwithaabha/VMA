@@ -1,0 +1,4 @@
+vehicle_image_path: C:\Users\ASUS\OneDrive\Desktop\Vehicle-Movement-Analysis-main\Result\vehicle_20250304_235657.jpg
+vehicle_timestamp: 20250304_235657
+license_plate: AG2NP9657
+status: Unauthorized

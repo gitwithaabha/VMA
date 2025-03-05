@@ -1,0 +1,4 @@
+vehicle_image_path: C:\Users\ASUS\OneDrive\Desktop\Vehicle-Movement-Analysis-main\Result\vehicle_20250304_213858.jpg
+vehicle_timestamp: 20250304_213858
+license_plate: kaG2MP965
+status: Unauthorized

@@ -1,0 +1,12 @@
+vehicle_image_path: C:\Users\ASUS\OneDrive\Desktop\Vehicle-Movement-Analysis-main\Result\vehicle_20250304_232713.jpg
+vehicle_timestamp: 20250304_232713
+license_plate: KAG2MP0657
+status: Unauthorized
+vehicle_image_path: C:\Users\ASUS\OneDrive\Desktop\Vehicle-Movement-Analysis-main\Result\vehicle_20250304_232824.jpg
+vehicle_timestamp: 20250304_232824
+license_plate: AG2MP9657
+status: Unauthorized
+vehicle_image_path: C:\Users\ASUS\OneDrive\Desktop\Vehicle-Movement-Analysis-main\Result\vehicle_20250304_233706.jpg
+vehicle_timestamp: 20250304_233706
+license_plate: MH14JU4530
+status: Unauthorized
